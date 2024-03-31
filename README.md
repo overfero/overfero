@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fero
-- 👀 I’m interested in Android Development and Machine Learning
-- 🌱 I’m currently learning BackEnd
-- 💞️ I’m looking to collaborate on Ai Apps Project
+- 👀 I’m interested in Fullstack Machine Learning Development
+- 🌱 I’m currently learning Distributed Training
+- 💞️ I’m looking to collaborate on AI Apps Project
 - 📫 How to reach me, email: fehruputramen22@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Never notes in college
